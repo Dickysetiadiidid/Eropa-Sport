@@ -1,4 +1,5 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
+#EXT-X-TARGETDURATION:0.1
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:1,
+#EXTINF:0.1,
+http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=316556&extension=ts
