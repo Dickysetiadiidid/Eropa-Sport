@@ -2,3 +2,4 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
+http://foxx-tv.com:8080/play/live.php?mac=00:1A:79:B0:D7:0E&stream=213392&extension=ts
