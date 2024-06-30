@@ -2,4 +2,4 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
-http://abcnew.site:8880/live/JH12M2D107/WFqKVEthtj/28862.ts
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=429781&extension=ts
