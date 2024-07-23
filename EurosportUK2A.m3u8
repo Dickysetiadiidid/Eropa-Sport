@@ -5,4 +5,3 @@
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
 http://tv.cloudcdn.me:80/live.ts?channelId=273&uid=5175&deviceMac=00:1A:79:E5:A9:30
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=615227&extension=ts
