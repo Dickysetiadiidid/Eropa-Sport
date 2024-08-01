@@ -5,4 +5,6 @@
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:46
 #EXTINF:4.800,
+http://050518.pro:8000/play/jt3H8GjlACrE6Jl872b5Mhx-Y6JGABd4kEeMvAPgsnVK2T1Vgf_zVdvsDkhdV2zPF1WFql4yx69JMJaIrcBJ0PHAOg6kOCkmgw0g9JkadR-uH1hs_Qli95rOV8hnIQAl?ext=.ts
+#EXTINF:4.800,
 http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=220010&extension=ts
