@@ -2,5 +2,5 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
-http://178.162.225.154:2082/live/LIST-MIGIRATION-r031tXZ5Bu/iqFaBvZSxp/1267.ts
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=13582&extension=ts&play_token=3IdxftcsAT
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=429781&extension=ts
