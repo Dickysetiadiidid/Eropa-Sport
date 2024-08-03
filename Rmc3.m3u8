@@ -5,4 +5,5 @@
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXTINF:1
+http://mag.abcdxyz.one:80/play/live.php?mac=00:1A:79:17:1E:06&stream=393176&extension=ts
 http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=32178&extension=ts
